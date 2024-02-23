@@ -26,7 +26,7 @@ To check if the container is running, run the following command:
 ##### `docker ps`
 
 ---
-## Lisence
+## License
 
 This project is licensed under the MIT License. See the LICENSE.md file for details.
 
